@@ -1,0 +1,1 @@
+Download the current air_quality_daily.csv and cities.csv from https://huggingface.co/datasets/AkshayKarthick/india-weather-air-quality/tree/main or run the notebook to download automatically. Data is not fabricated or bundled.
